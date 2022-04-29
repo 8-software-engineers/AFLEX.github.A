@@ -12,6 +12,8 @@ btnOpen.onclick=function(){
     btnClose.classList.remove('hide');
     btnOpen.classList.add('hide');
 }
+// Get the root element
+var r = document.querySelector(':root');
 // Create a function for setting a variable value
 function myFunction_set1() {
     var rs = getComputedStyle(r);
