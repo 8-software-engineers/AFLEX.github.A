@@ -20,7 +20,7 @@ function myFunction_set1() {
     // Set the value of variable --blue to another value (in this case "lightblue")
     r.style.setProperty('--main-color', '#dca523');
     r.style.setProperty('--main-color-more-dark2', '#a07512');
-    r.style.setProperty('--main-color-more-dark1 ', '#684d0f');
+    r.style.setProperty('--main-color-more-dark1', '#684d0f');
     r.style.setProperty('--second-color', '#ffffff1a');
     r.style.setProperty('--background-color', '#0f0a05');
     r.style.setProperty('--second-text-color', '#fff');
