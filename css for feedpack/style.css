@@ -166,6 +166,7 @@ header #container ul li p:hover{
 }
 
 .feedback .content form .main-input {
+  color: #fff;
   padding: 20px;
   background-color: var(--main-color-more-dark1);
   display: block;
@@ -179,6 +180,7 @@ header #container ul li p:hover{
 }
 
 .feedback .content form textarea.main-input {
+  color: #fff;
   height: 200px;
 }
 
