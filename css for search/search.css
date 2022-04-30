@@ -69,7 +69,7 @@ a {
     display: flex;
 }
 .film1 {
-    width: 200px;
+    width: 250px;
     height: 370px;
     background-color: var(--background-color);
     box-shadow: var(--box-shadow);
