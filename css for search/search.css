@@ -74,7 +74,7 @@ a {
 }
 .film1 {
     width: 260px;
-    height: 436px;
+/*     height: 436px; */
     background-color: var(--background-color);
     box-shadow: var(--box-shadow);
     color: var(--main-color);
