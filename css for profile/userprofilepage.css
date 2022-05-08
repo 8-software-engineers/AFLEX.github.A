@@ -132,7 +132,7 @@ footer{
     position: relative;
 }
 .box{
-    margin-top: 435px;
+    margin-top: 662px;
     margin-bottom: 95px;
     width: calc(100vw - 400px);
     height: calc(100vh - 100px);
@@ -233,7 +233,7 @@ input:focus{
 }
 .container .button .editbtn,input[type="submit"]{
     position: absolute;
-    top: 40%;
+    top: 45%;
     right: 16%;
     padding: 6px 0px;
     border-radius: 20px;
