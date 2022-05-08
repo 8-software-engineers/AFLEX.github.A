@@ -30,10 +30,10 @@ function myFunction_set2() {
     var rs = getComputedStyle(r);
     // Set the value of variable --blue to another value (in this case "lightblue")
     r.style.setProperty('--main-color', '#FFFFFF');
-    r.style.setProperty('--main-color-more-dark2', '#333');
-    r.style.setProperty('--main-color-more-dark1', '#000000');
+    r.style.setProperty('--main-color-more-dark2', '#FFFFFF');
+    r.style.setProperty('--main-color-more-dark1', '#FFFFFF');
     r.style.setProperty('--second-color', '#FFFFFF');
     r.style.setProperty('--background-color', '#181D25');
-    r.style.setProperty('--second-text-color', '#333');
+    r.style.setProperty('--second-text-color', '#FFFFFF');
     r.style.setProperty('--important-red', 'green');
 }
