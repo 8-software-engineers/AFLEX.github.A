@@ -128,10 +128,10 @@ header #container ul li p:hover{
     position: relative;
 }
 .box{
-    margin-top: 250px;
+    margin-top: 200px;
     margin-bottom: 95px;
-    width: calc(100vw - 400px);
-    height: calc(100vh - 100px);
+    width: calc(100vw - 425px);
+    height: calc(100vh - 150px);
     background-color: var(--background-color);
     border-radius: 10px;
     padding: 50px 70px;
@@ -229,7 +229,7 @@ input:focus{
 }
 .container .button .editbtn,input[type="submit"]{
     position: absolute;
-    top: 24%;
+    top: 26%;
     right: 16%;
     padding: 6px 0px;
     border-radius: 20px;
