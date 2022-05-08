@@ -151,6 +151,7 @@ header #container ul li p:hover{
     margin-top: 20px;
 }
 .center1::after{
+    font-size: 60;
     color: white;
     content: "Aflam";
     animation-name: korya;
