@@ -32,7 +32,7 @@ function myFunction_set2() {
     r.style.setProperty('--main-color', '#FFFFFF');
     r.style.setProperty('--main-color-more-dark2', '#333');
     r.style.setProperty('--main-color-more-dark1', '#000000');
-    r.style.setProperty('--second-color', '#053933');
+    r.style.setProperty('--second-color', '#FFFFFF');
     r.style.setProperty('--background-color', '#181D25');
     r.style.setProperty('--second-text-color', '#333');
     r.style.setProperty('--important-red', 'green');
