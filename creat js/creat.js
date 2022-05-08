@@ -1,5 +1,5 @@
 let new_user_name = document.getElementById('login-username');
-let new_password = document.getElementById('login-username');
+let new_password = document.getElementById('login-password');
 new_user_name.onkeyup = function() {
     localStorage.setItem('new_account_username',new_user_name.value);
 }
