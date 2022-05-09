@@ -5,7 +5,7 @@ var r = document.querySelector(':root');
 let t1 = document.getElementById("light");
 let t2 = document.getElementById("dark");
 
-t1.addEventListener('click', function fun1() {
+t1.addEventListener('click',()=>{
     localStorage.mode = "light";
     // Set the value of variable --blue to another value (in this case "lightblue")
     r.style.setProperty('--main-color', '#dca523');
@@ -18,7 +18,7 @@ t1.addEventListener('click', function fun1() {
 
 })
 
-t2.addEventListener('click', function fun2() {
+t2.addEventListener('click',()=>{
     localStorage.mode = "dark";
     // Set the value of variable --blue to another value (in this case "lightblue")
     r.style.setProperty('--main-color', '#320E3E');
