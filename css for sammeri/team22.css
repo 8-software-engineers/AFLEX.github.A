@@ -159,6 +159,12 @@ header #container ul li p:hover{
     font-weight: 700;
     text-align: center;
 }
+.hidden {
+    color: var(--main-color);
+    display: none;
+}
+
+
 
 
 
